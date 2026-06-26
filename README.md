@@ -2,12 +2,15 @@
 
 # Información del proyecto
 
-## Nombre del proyecto 
-Percepción Cinética: Sistema Interactivo de Figuras Generativas
-
 [link](https://editor.p5js.org/dannyy/sketches/Xp2ickMO2)
 
 [link](https://editor.p5js.org/dannyy/full/Xp2ickMO2)
+
+
+
+
+## Nombre del proyecto 
+**Percepción Cinética: Sistema Interactivo de Figuras Generativas**
 
 ## Autora 
 Daniela muñoz
