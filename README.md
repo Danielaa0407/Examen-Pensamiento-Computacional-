@@ -6,9 +6,11 @@
 
 [link](https://editor.p5js.org/dannyy/full/Xp2ickMO2)
 
-![Texto alternativo de la imagen](imagenes/estado1.png)
+![estado0](imagenes/estado0.png)
 
-![Texto alternativo de la imagen](imagenes/estado2.png)
+![estado1](imagenes/estado1.png)
+
+![estado2](imagenes/estado2.png)
 
 ## Nombre del proyecto 
 **Percepción Cinética: Sistema Interactivo de Figuras Generativas**
@@ -187,5 +189,5 @@ En general, el proyecto permitió profundizar en la relación entre código, int
 
 # Diagrama de flujo 
 
-![Texto alternativo de la imagen](Diagrama/diagramadeflujo.png)
+![diagrama de flujo](Diagrama/diagramadeflujo.png)
 
